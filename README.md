@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I' m Ethan J. Reynolds ! (@Fairs1951)
 
-<!--
-**Fairs1951/Fairs1951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior AI/ML Engineer with a (passion for building scalable intelligent systems.)
 
-Here are some ideas to get you started:
+- ⚢ Currently working on LLMOps and Distributed ML Training
+- 💪 Expertise in Python, C++, Rust, and TypeScript
+- 📫 Learn more about my projects below!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+| Project | Description |
+--- | --- |
+| [llm-ops-framework](https://github.com/Fairs1951/llm-ops-framework) | Production-ready LLM deployment |
+| [realtime-vision-analytics](https://github.com/Fairs1951/realtime-vision-analytics) | Real-time CV Pipeline |
+| [distributed-ml-training](https://github.com/Fairs1951/distributed-ml-training) | Scalable ML Infrastructure |
+| [ai-portfolio-dashboard](https://github.com/Fairs1951/ai-portfolio-dashboard) | ML Performance Visualization |
